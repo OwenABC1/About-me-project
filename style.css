@@ -3,6 +3,13 @@ body {
 }
 
 .Image {
-	Width: min(50%, 400px)
+	Width: min(50%, 400px);
 }
 
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h6 {
+	
+}

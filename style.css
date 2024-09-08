@@ -17,12 +17,10 @@ h6 {
 
 h3 {
 	font-family: Arial, Helvetica, sans-serif;
-}
-
-h1 {
-	font-family: Arial, Helvetica, sans-serif;
+	 color: blue;
 }
 
 p {
 	font-family: Arial, Helvetica, sans-serif;
+	color: blue;
 }
